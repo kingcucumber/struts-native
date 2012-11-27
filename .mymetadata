@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-module
+  type="WEB"
+  name="native"
+  id="myeclipse.1353847894465"
+  context-root="/native"
+  j2ee-spec="5.0"
+  archive="native.war">
+  <attributes>
+    <attribute name="webrootdir" value="WebRoot" />
+  </attributes>
+</project-module>
+
